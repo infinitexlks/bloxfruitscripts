@@ -11,5 +11,5 @@ function copyCode() {
 }
 
 function openDiscord() {
-  window.open("https://discord.gg/YOURSERVER", "_blank");
+  window.open("https://discord.gg/YGjbQjpQ", "_blank");
 }
